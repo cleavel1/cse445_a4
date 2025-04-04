@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+
+<Hotel
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="Hotels.xsd">
+
+<Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearstAirport="Sky Harbor">
+        <Number>11</Number>
+        <Street>E.7th St</Street>
+        <City>Tempe</City>
+        <State>AZ</State>
+        <Zip>85281</Zip>
+    </Address>
+</Hotel>
+
+<Hotel Rating="4.4">
+    <Name>Hyatt Regency Lake Tahoe Resort, Spa and Casino</Name>
+    <Phone>(775) 832-1234</Phone>
+    <Address NearstAirport="Carson City">
+        <Number>111</Number>
+        <Street>Country Club Dr</Street>
+        <City>Incline Village</City>
+        <State>NV</State>
+        <Zip>89451</Zip>
+    </Address>
+</Hotel>
+
+<Hotel Rating="4.3">
+    <Name>Casa Loma Beach Hotel</Name>
+    <Phone>(800) 544-4479</Phone>
+    <Address>
+        <Number>211</Number>
+        <Street>N Coast Hwy</Street>
+        <City>Laguna Beach</City>
+        <State>CA</State>
+        <Zip>92651</Zip>
+    </Address>
+</Hotel>
+
+<Hotel Rating="4.2">
+    <Name>The Grove Hotel</Name>
+    <Address NearstAirport="Boise">
+        <Number>245</Number>
+        <Street>S Capitol Blvd</Street>
+        <City>Boise</City>
+        <State>ID</State>
+        <Zip>83702</Zip>
+    </Address>
+</Hotel>
+
+<Hotel Rating="3.9">
+    <Name>Rio Hotel and Casino</Name>
+    <Phone>(702) 777-7777</Phone>
+    <Address NearstAirport="Las Vegas">
+        <Number>3700</Number>
+        <Street>W Flamingo Rd</Street>
+        <City>Las Vegas</City>
+        <State>NV</State>
+        <Zip>89103</Zip>
+</Hotel>
+
+<Hotel Rating="4.6">
+    <Name>La Quinta Resort and Club, Curio Collection by Hilton</Name>
+    <Phone>(760) 564-4111</Phone>
+    <Address NearstAirport="Palm Springs">
+        <Number>49</Number>
+        <Street>Eisenhower Dr</Street>
+        <City>La Quinta</City>
+        <State>CA</State>
+        <Zip>92253</Zip>
+    </Address>
+</Hotel>
+
+<Hotel Rating="3.7">
+    <Name>Seaside All Suites Hotel</Name>
+    <Name>This extra name should generate an error</Name>
+    <Phone>(305) 866-7033</Phone>
+    <Address NearstAirport="Miami">
+        <Number>7500</Number>
+        <Street>Collins Ave</Street>
+        <City>Miami</City>
+        <State>FL</State>
+        <Zip>33141</Zip>
+    </Address>
+</Hotel>
+
+<Hotel Rating="4.6">
+    <Name>Hilton Grand Vacations Club Ocean Enclave Myrtle Beach</Name>
+    <Phone>(843) 848-16005</Phone>
+    <Address NearstAirport="Myrtle Beach">
+        <Number>1600</Number>
+        <Street>N Ocean Blvd</Street>
+        <City>Myrtle Beach</City>
+        <State>SC</State>
+        <Zip>29577</Zip>
+    </Address>
+</Hotel>
+
+<Hotel Rating="4.2">
+    <Name>Hilton Ocean City Oceanfront Suites</Name>
+    <Phone>(410) 289-6444</Phone>
+    <Address NearstAirport="Salisbury">
+        <Number>3200</Number>
+        <Street>Baltimore Ave</Street>
+        <City>Ocean City</City>
+        <State>MD</State>
+        <Zip>21842</Zip>
+    </Address>
+</Hotel>
+
+<Hotel Rating="4.2">
+    <Name>Holiday Inn Express and Suites Salina by IHG</Name>
+    <Phone>(785) 404-3300</Phone>
+    <Address NearstAirport="Tamarack">
+        <Number>755</Number>
+        <Street>W Diamond Dr</Street>
+        <City>Salina</City>
+        <State>KS</State>
+        <Zip>67401</Zip>
+    </Address>
+</Hotel>
+
+<Hotel Rating="4.6">
+    <Name>Holiday Inn Express and Suites Green River by IHG</Name>
+    <Phone>(435) 672-2477</Phone>
+    <Address NearstAirport="Moab">
+        <Number>1050</Number>
+        <Street>Main St</Street>
+        <City>Green River</City>
+        <State>UT</State>
+        <Zip>84525</Zip>
+    </Address>
+</Hotel>
+
+</Hotels>
+
+    
